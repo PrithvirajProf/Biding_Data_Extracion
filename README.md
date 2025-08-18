@@ -57,7 +57,7 @@ Setup ChromeDriver:
 
 ## Configuration
 `BASE_URL` = "https://bids.delaware.gov"
-`OUTPUT_FILENAME` = 'Delaware_Bids_Export.xlsx'
+`OUTPUT_FILENAME` = 'delaware_all_bids.xlsx'
 
 **Run the Script:** 
 Execute the script from your terminal:
